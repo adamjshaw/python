@@ -1,0 +1,1 @@
+A Hidden Markov Model in Python, which can, given a list of words, iterate to the point of convergence, learning to separate vowels and consonants into two different states. It also implements the Viterbi Path Algorithm
